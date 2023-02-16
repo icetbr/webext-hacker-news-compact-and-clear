@@ -12,11 +12,9 @@ Whiter background, narrower, decluttered.
 [Userscript][1] - [Firefox][2] - [Chrome][3].
 
 
-## Why
-Fits more things on screen and improves UX.
-
-- white background and narrower
-  - essential for readability
+## Changes
+- **background** is white and narrower
+  - I don't know why some people prefer gray
   - adjusted font color to match contrast
 - focus on important stuff
   - user name to the right, hiding nav commands and reply date
